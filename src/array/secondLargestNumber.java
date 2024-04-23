@@ -18,7 +18,7 @@ public class secondLargestNumber {
            }
        }
        int secondMax=largestno(arr);
-       return secondMax
+       return secondMax;
    }
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
