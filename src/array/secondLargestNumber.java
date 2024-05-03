@@ -33,3 +33,6 @@ public class secondLargestNumber {
         System.out.println(" SECOND LARGEST NUMBER" +secondLargest(arr));
     }
 }
+//approach
+// largest then second largest
+
