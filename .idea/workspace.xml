@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0a2ea5-7d51-45b8-ae64-fbf474aae721" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/mat_add.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/secondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/secondLargestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,9 @@
     <option name="defaultAccountId" value="0c575291-e471-44ac-a551-953cb59cff1c" />
   </component>
   <component name="ProjectId" id="2fHZrtDtPoePMAaopaHseI6kYZ0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
