@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714995925932</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Int preparation">
+      <created>1715069816438</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715069816439</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="int practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="int practice" />
+    <MESSAGE value="Int preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Int preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
