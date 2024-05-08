@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0a2ea5-7d51-45b8-ae64-fbf474aae721" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/mul_MAT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/mat_add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/mat_add.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715069816439</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Interview preparation">
+      <created>1715091448359</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715091448359</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +250,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="int practice" />
     <MESSAGE value="Int preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Int preparation" />
+    <MESSAGE value="Interview preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interview preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
