@@ -39,18 +39,49 @@ public class mul_MAT {
                          matrix1[i][j] = sc.nextInt();
                      }
                  }
-                  System.out.println("Enter the no of rows 2 -  ");
+        System.out.println("Enter the no of rows 2 -  ");
                           int r2=sc.nextInt();
         System.out.println("Enter the no of columns 2- ");
                           int c2=sc.nextInt();
-                          int[][] matrix =new int[r2][c2];
+                          int[][] matrix2 =new int[r2][c2];
                           System.out.println("Enter the "+ r2*c2  +" elements ");
                           for (int i = 0; i < r2; i++) {
                               for (int j = 0; j < c2; j++) {
-                                  matrix[i][j] = sc.nextInt();
+                                  matrix2[i][j] = sc.nextInt();
                               }
                           }
 
-
+        System.out.println("Matrix 1");
+                          printMat(matrix1);
+        System.out.println("Matrix 2");
+        printMat(matrix2);
+        multiply(matrix1, r1, c1, matrix2, r2, c2);
     }
 }
+//output
+
+//Enter the no of rows 1 -
+//2
+//enter the no of columns 1-
+//2
+//Enter the 4 elements
+//2 3
+//4 5
+//Enter the no of rows 2 -
+//2
+//Enter the no of columns 2-
+//2
+//Enter the 4 elements
+//2 3
+//4 5
+//Matrix 1
+//2 3
+//4 5
+//Matrix 2
+//2 3
+//4 5
+//MULTIPLICATION OF 2 MATRICES-
+//12 15
+//20 25
+//
+//Process finished with exit code 0
