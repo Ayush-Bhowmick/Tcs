@@ -5,8 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0a2ea5-7d51-45b8-ae64-fbf474aae721" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/ASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RemoveCharAt_i.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/bracketRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/capitaliseFirstAndLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/charWithFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/countSumBtAlphabets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/countVowelConsonentDigitCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/countWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/firstNonRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/lexicography.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/maxOccurring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/onlyAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/removeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/removeDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/removeVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/smallestAndLargestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/sortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/toggleUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/nonRepeatingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberSeries/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/numberSeries/rootOfQuadraticEqn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/rightRotateKtimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/revision/secondLargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/A1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/equillibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/equillibrium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/rotateArrByK_Times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/rotateArrByK_Times.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/secondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/secondLargestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +73,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="rightRotateKtimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision.rightRotateKtimes" />
+      <module name="Tcs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="revision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.rightRotateKtimes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -248,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715446533878</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Interview preparation">
+      <created>1723372153651</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1723372153652</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

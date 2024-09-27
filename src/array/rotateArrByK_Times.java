@@ -17,11 +17,11 @@ public class rotateArrByK_Times {
 
         for (int i = n-k; i < n; i++) {
 //            System.out.println(arr[i]+" "); fault correction update kor
-            ans[j++]= arr[i]; //update answer array
+            ans[j++]= arr[i]; //update answer array // agey pechoner er ta k bhorchiii array te
         }
         for (int i = 0; i < n-k; i++) {
 //            System.out.println(arr[j]+" "); fault correction update kor
-            ans[j++]= arr[i]; //update answer array
+            ans[j++]= arr[i]; //update answer array // niye samner ta k
         }
         return ans;
     }

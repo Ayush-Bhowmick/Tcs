@@ -30,7 +30,7 @@ public class secondLargestNumber {
         for (int i = 0; i < arr.length; i++) {
             arr[i]= sc.nextInt();
         }
-        System.out.println(" SECOND LARGEST NUMBER" +secondLargest(arr));
+        System.out.println(" SECOND LARGEST NUMBER " +secondLargest(arr));
     }
 }
 //approach
