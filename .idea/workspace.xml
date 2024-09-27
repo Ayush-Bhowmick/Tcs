@@ -5,38 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab0a2ea5-7d51-45b8-ae64-fbf474aae721" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/ASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/RemoveCharAt_i.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/bracketRemover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/capitaliseFirstAndLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/charWithFreq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/countSumBtAlphabets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/countVowelConsonentDigitCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/countWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/firstNonRepeatingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/lexicography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/maxOccurring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/onlyAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/removeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/removeDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/removeVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/smallestAndLargestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/sortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/toggleUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/nonRepeatingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numberSeries/primeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numberSeries/rootOfQuadraticEqn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/rightRotateKtimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/secondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/longestSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/uniquePth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/zerosAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversion/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversion/decimalToBinary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tcs/array/secondLargestNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/equillibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/equillibrium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/rotateArrByK_Times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/rotateArrByK_Times.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/secondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/secondLargestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723372153652</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Interview preparation">
+      <created>1727451544310</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727451544311</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
